@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It's just a reactJs frontend of a video player. You can check it by checking this link:
+https://react-video-hub-teal.vercel.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
